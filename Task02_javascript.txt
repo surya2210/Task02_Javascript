@@ -1,0 +1,20 @@
+Difference Between Document and Window Object?
+
+
+Document Object.
+
+1. The document object represent a web page that is loaded in the browser.
+2.It is loaded inside the window.	
+3. syntax:document.propertyname
+
+
+
+
+
+
+Window Object.
+
+1.The window object represents an open window in a browser.
+2.It is the very first object that is loaded in the browser.
+3.Syntax:window.propertyname
+
